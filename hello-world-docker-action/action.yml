@@ -9,7 +9,7 @@ outputs:
   time:
     description: 'The time we said hello.'
   hardcodedname: 
-    description: 'This is always going to say ''Chips'''
+    description: 'This is always going to say Chips'
     value: 'Chips'
 runs:
   using: 'docker'
